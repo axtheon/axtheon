@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Axtheon!
+# 👋 Hi, I'm ABDULLAH KHAN!
+#  Here known as AXTHEON.
 
 🎓 10th Grade Student | 💻 Aspiring Software Engineer | 🧠 Self-Taught C++ & Python Developer  
 🔭 Currently learning **Python**, **C++**, **Git**, and **Open Source**  

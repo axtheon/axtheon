@@ -36,7 +36,7 @@
 ## 📬 Connect with Me
 
 - 🌐 GitHub: [github.com/axtheon](https://github.com/axtheon)
-- 📩 Email: Coming Soon!
+- 📩 Email: abdullah.dev4220@gmail.com
 - 🧠 I’m always open to learn from others and grow together!
 
 ---

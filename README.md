@@ -69,16 +69,3 @@ You can click the Preview link to take a look at your changes.
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZWk5bjhsZzZtZTNmNnltZWt1bDliOTFrczE5Nm10b3N1eHU1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZWk5bjhsZzZtZTNmNnltZWt1bDliOTFrczE5Nm10b3N1eHU1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cU9Sbf5j5wN9k7DMQw/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZWk5bjhsZzZtZTNmNnltZWt1bDliOTFrczE5Nm10b3N1eHU1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F6X1dy3k98VLRbCl1u/giphy.gif"  />
-</div>
-
-###

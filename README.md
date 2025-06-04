@@ -9,9 +9,9 @@
 
 ## 🚀 Tech Stack
 
-- 💡 Languages: `C++`,`c#`, `Python`, `HTML`, `CSS`, `JavaScript (basics)`
-- 🔧 Tools: `Visual Studio Code`,`Pycharm`, `Git`, `GitHub`, `G++`
-- 🌐 Learning Platforms: `freeCodeCamp`, `CS50`, `GitHub Docs`,`YOUTUBE`
+- 💡 Languages: `C++`, `c#`, `Python`, `HTML`, `CSS`, `JavaScript (basics)`
+- 🔧 Tools: `Visual Studio Code`, `Pycharm`, `Replit`, `Git`, `GitHub`, `G++`
+- 🌐 Learning Platforms: `freeCodeCamp`, `CS50`, `GitHub Docs`, `YOUTUBE`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />

@@ -45,6 +45,9 @@
 - 🎸 I play acoustic guitar and love film photography
 - 🤖 I build games using Unreal Engine for fun
 - 🌌 I’m deeply focused and love working silently on big goals
+- <div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZWk5bjhsZzZtZTNmNnltZWt1bDliOTFrczE5Nm10b3N1eHU1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
+</div>
 
 ---
 
@@ -64,9 +67,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-###
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZWk5bjhsZzZtZTNmNnltZWt1bDliOTFrczE5Nm10b3N1eHU1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
-</div>
+
+
 

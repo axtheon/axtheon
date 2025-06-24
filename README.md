@@ -1,7 +1,7 @@
 # 👋 Hi, I'm AXTHEON!
 
 
-🎓 10th Grade Student | 💻 Aspiring Software Engineer | 🧠 Self-Taught C++ & Python Developer  
+🎓 10th Grade Student | 💻 Aspiring Software Engineer / Software Developer | 🧠 Self-Taught C++ & Python Developer  
 🔭 Currently learning **Python**, **C++**, **Git**, and **Open Source**  
 🎯 My goal: To become a Software Engineer at **Microsoft**
 
@@ -9,23 +9,15 @@
 
 ## 🚀 Tech Stack
 
-- 💡 Languages: `C++`, `c#`, `Python`, `HTML`, `CSS`, `JavaScript (basics)`
+- 💡 Languages: `C++`, `Python`
 - 🔧 Tools: `Visual Studio Code`, `Pycharm`, `Replit`, `Git`, `GitHub`, `G++`
 - 🌐 Learning Platforms: `freeCodeCamp`, `CS50`, `GitHub Docs`, `YOUTUBE`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>

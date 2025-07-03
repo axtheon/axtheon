@@ -9,7 +9,7 @@
 
 ## 🚀 Tech Stack
 
-- 💡 Languages: `C++`, `Python`
+- 💡 Languages: `C++`, `Python`, `CLion`
 - 🔧 Tools: `Visual Studio Code`, `Pycharm`, `Replit`, `Git`, `GitHub`, `G++`
 - 🌐 Learning Platforms: `freeCodeCamp`, `CS50`, `GitHub Docs`, `YOUTUBE`
 <div align="left">
@@ -18,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>

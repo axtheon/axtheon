@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Khan
 
-🎓 10th Grade Student  
+🎓 17 years old, 10th Grade Student  
 💻 Aspiring Software Engineer | Python & C++ Developer  
 🎯 Goal: Software Engineer at Microsoft  
 

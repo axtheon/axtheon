@@ -1,71 +1,88 @@
-# 👋 Hi, I'm ABDULLAH KHAN!
+# 👋 Hi, I'm Abdullah Khan
 
+🎓 10th Grade Student  
+💻 Aspiring Software Engineer | Python & C++ Developer  
+🎯 Goal: Software Engineer at Microsoft  
 
-🎓 10th Grade Student | 💻 Aspiring Software Engineer / Software Developer | 🧠 Self-Taught C++ & Python Developer  
-🔭 Currently learning **Python**, **C++**, **Git**, and **Open Source**  
-🎯 My goal: To become a Software Engineer at **Microsoft**
+I'm a dedicated, self-motivated student developing a solid foundation in **computer science, programming, and open source**.  
+I like to write clear code, gain a thorough understanding of systems, and gradually improve projects.
 
 ---
 
 ## 🚀 Tech Stack
 
-- 💡 Languages: `C++`, `Python`, `C#`
-- 🔧 Tools: `Visual Studio Code`, `Visual Studio`, `Pycharm`, `CLion`, `Replit`, `Git`, `GitHub`, `G++`
-- 🌐 Learning Platforms: `freeCodeCamp`, `CS50`, `GitHub Docs`, `YOUTUBE`
+**Languages**
+- Python
+- C++
+- C# (beginner)
+
+**Tools & Technologies**
+- Git & GitHub
+- Visual Studio Code, Visual Studio
+- PyCharm, CLion
+- G++ / GCC
+
+**Learning Resources**
+- CS50
+- freeCodeCamp
+- GitHub Docs
+- YouTube (curated, not random)
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo" />
 </div>
 
 ---
 
-## 📚 Current Learning Roadmap
+## 📚 Current Focus
 
-- ✅ Python Programming Basics
-- ✅ Git & GitHub (version control + collaboration)
-- ✅ C++ Fundamentals (STL, functions, OOP, etc.)
-- 🔄 Problem Solving on LeetCode
-- 🛠️ Contributing to Open Source Projects
+- ✅ Python programming (core + applied projects)
+- ✅ Git & GitHub (real collaboration & PRs)
+- ✅ C++ fundamentals (STL, OOP, problem solving)
+- 🔄 Data structures & algorithms (LeetCode)
+- 🛠️ Open-source contributions
 - 🎓 Planning a Bachelor's in Computer Science
 
 ---
 
-## 🧩 Fun Facts
+## 🧩 Beyond Code
 
-- 🎸 I play acoustic guitar and love film photography
-- 🤖 I build games using Unreal Engine and Unity for fun
-- 🌌 I’m deeply focused and love working silently on big goals
- 
- <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZWk5bjhsZzZtZTNmNnltZWt1bDliOTFrczE5Nm10b3N1eHU1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
+- 🎸 Acoustic guitar
+- 📷 Film photography (vintage & analog)
+- 🤖 Game development (Unity & Unreal — hobby-level)
+- 🌌 Prefer deep, quiet work over noise
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZWk5bjhsZzZtZTNmNnltZWt1bDliOTFrczE5Nm10b3N1eHU1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif" />
 </div>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Contact
 
-- 🌐 GitHub: [github.com/axtheon](https://github.com/axtheon)
-- 📩 Email: abdullah.dev4220@gmail.com
-- 🧠 I’m always open to learn from others and grow together!
+- GitHub: https://github.com/axtheon  
+- Email: abdullah.dev4220@gmail.com  
+
+I’m always open to learning, collaboration, and meaningful discussions.
 
 ---
 
-> “Stay consistent, stay curious, and you'll get there.” — Axtheon
+> *Stay consistent. Stay curious. Progress compounds.*
 
 <!---
 axtheon/axtheon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 
 

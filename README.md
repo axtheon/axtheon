@@ -9,8 +9,8 @@
 
 ## 🚀 Tech Stack
 
-- 💡 Languages: `C++`, `Python`
-- 🔧 Tools: `Visual Studio Code`, `Pycharm`, `CLion`, `Replit`, `Git`, `GitHub`, `G++`
+- 💡 Languages: `C++`, `Python`, `C#`
+- 🔧 Tools: `Visual Studio Code`, `Visual Studio`, `Pycharm`, `CLion`, `Replit`, `Git`, `GitHub`, `G++`
 - 🌐 Learning Platforms: `freeCodeCamp`, `CS50`, `GitHub Docs`, `YOUTUBE`
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -22,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual studio logo" />
 </div>
 
 ---
@@ -40,7 +42,7 @@
 ## 🧩 Fun Facts
 
 - 🎸 I play acoustic guitar and love film photography
-- 🤖 I build games using Unreal Engine for fun
+- 🤖 I build games using Unreal Engine and Unity for fun
 - 🌌 I’m deeply focused and love working silently on big goals
  
  <div align="center">

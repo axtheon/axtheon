@@ -70,7 +70,7 @@ I like to write clear code, gain a thorough understanding of systems, and gradua
 
 ## 📬 Contact
 
-- GitHub: https://github.com/axtheon  
+- Portfolio Website: [https://github.com/axtheon](https://axtheon.github.io/AbdullahKhan_Portfolio/)  
 - Email: abdullah.dev4220@gmail.com  
 
 I’m always open to learning, collaboration, and meaningful discussions.

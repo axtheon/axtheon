@@ -13,7 +13,7 @@ I like to write clear code, gain a thorough understanding of systems, and gradua
 
 **Languages**
 - Python
-- C++
+- C++ (learning)
 - C# (beginner)
 
 **Tools & Technologies**

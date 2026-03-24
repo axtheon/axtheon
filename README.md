@@ -14,7 +14,6 @@ I like to write clear code, gain a thorough understanding of systems, and gradua
 **Languages**
 - Python
 - C++ (learning)
-- C# (beginner)
 
 **Tools & Technologies**
 - Git & GitHub

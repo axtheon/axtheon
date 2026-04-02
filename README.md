@@ -54,12 +54,6 @@ I enjoy understanding how algorithms work, building intelligent systems, and con
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axtheon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github" height="155"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axtheon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="155"/>
-</div>
-
 <br/>
 
 <div align="center">
@@ -68,18 +62,6 @@ I enjoy understanding how algorithms work, building intelligent systems, and con
 
 ---
 
-## 🎯 Current Learning Progress
-
-```text
-Python Programming            ████████████░░░░░░░░   60%
-C++ Fundamentals              ████████░░░░░░░░░░░░   40%
-Data Structures & Algorithms  ██████░░░░░░░░░░░░░░   30%
-Git & GitHub                  ██████████░░░░░░░░░░   50%
-Machine Learning Foundations  ██░░░░░░░░░░░░░░░░░░   Starting
-Open Source Contributions     ████░░░░░░░░░░░░░░░░   20%
-```
-
----
 
 ## 🧭 Learning Focus
 

@@ -1,70 +1,117 @@
 # Hi, I'm Abdullah Khan 👋
 
-> Computer Science student from Pakistan 🇵🇰 | Aspiring AI/ML Engineer
+I'm a Computer Science student from Pakistan 🇵🇰 focused on building deep expertise in **Artificial Intelligence**, **Machine Learning**, and **Data Structures & Algorithms**.
 
-I'm focused on building deep expertise in **Artificial Intelligence**, **Machine Learning**, and **Data Structures & Algorithms**. My goal is to contribute to cutting-edge research and build intelligent systems.
+My goal is to become an **AI / Machine Learning Engineer** and contribute to cutting-edge research and intelligent systems at companies like **Microsoft**.
 
----
-
-## ⚡ Quick Stats
-
-[![GitHub Streak](https://streak-stats.demoweb.org?user=axtheon&theme=radical&border_radius=5)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axtheon&theme=radical&layout=compact&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+I enjoy understanding how algorithms work, building intelligent systems, and continuously improving my problem-solving skills.
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=CS+Student+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Aspiring+AI+%26+ML+Engineer;Learning+Python+%7C+C%2B%2B+%7C+DSA+%7C+Machine+Learning;Building+strong+foundations+in+Algorithms" alt="Typing SVG" />
 
----
+<br/>
 
-## 🚀 Featured Projects
+<img height="170" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3liZWk5bjhsZzZtZTNmNnltZWt1bDliOTFrczE5Nm10b3N1eHU1cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JWuBH9rCO2uZuHBFpm/giphy.gif" />
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [MoodCutter](https://github.com/axtheon/MoodCutter) | 🎬 Open-source Python tool for extracting memorable video moments | ⭐ |
-| [Sorting-Algorithms-Visualizer](https://github.com/axtheon/Sorting-Algorithms-Visualizer) | 📊 Educational tool to visualize sorting algorithms | ⭐ |
-| [Python_Projects](https://github.com/axtheon/Python_Projects) | 🐍 Collection of Python practice projects | - |
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🙋 About Me
 
-- **Python** → AI/ML Development
-- **C++** → Problem Solving & DSA
-- **Data Structures & Algorithms**
-- **Machine Learning Fundamentals**
+- 👋 &nbsp; **Primary Interests:** Artificial Intelligence, Machine Learning, Data Structure & Algorithms
+- 🎯 &nbsp; **Career Goal:** AI / Machine Learning Engineer, and Data Scientist
+- 📚 &nbsp; **Currently Learning:** Python, C++, Data Structures & Algorithms
+- 🚀 &nbsp; **Exploring:** Machine Learning fundamentals & Open Source
+- 💻 &nbsp; **Learning Platforms:** Harvard CS50 & freeCodeCamp
+- 📍 &nbsp; **Based in:** Pakistan 🇵🇰
+- 📧 &nbsp; **Email:** [abdullah.dev4220@gmail.com](mailto:abdullah.dev4220@gmail.com)
 
 ---
 
-## 🎯 Learning Roadmap
+## 🛠️ Languages & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" title="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" title="C++" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" title="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" title="GitHub" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" title="Visual Studio Code" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="36" title="PyCharm" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="36" title="CLion" />
+</div>
+
+---
+
+## 🔥 GitHub Statistics
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axtheon&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div>
+
+---
+
+## 💡 Learning Focus
+
+My main focus areas right now:
+
+- Algorithms & Data Structures
+- Machine Learning Fundamentals
+- Mathematics for AI
+- Python for AI Development
+- Open Source Collaboration
+
+---
+
+## 🗺️ Long-Term Learning Path
 
 `
-Now   → Python, C++, DSA, Git
-  ↓
-Next  → Machine Learning, Linear Algebra
-  ↓
-Later → Deep Learning, AI Systems
-  ↓
-Goal  → AI/ML Engineer @ Top Tech Company
+[ Now   ]  Python → C++ → Algorithms → Git
+     ↓
+[ Next  ]  Machine Learning → Linear Algebra → Probability
+     ↓
+[ Later ]  Deep Learning → AI Systems → Research Projects
+     ↓
+[ Goal  ]  AI / ML Engineer working on intelligent systems
 `
 
 ---
 
-## 🌐 Connect With Me
+## 🎸 Beyond Coding
 
-[![GitHub](https://img.shields.io/badge/GitHub-axtheon?style=flat&logo=github)](https://github.com/axtheon)
-[![Twitter](https://img.shields.io/badge/Twitter-axtheon__-?style=flat&logo=twitter)](https://twitter.com/axtheon_)
-[![Email](https://img.shields.io/badge/Email-abdullah.dev4220@gmail.com?style=flat&logo=gmail)](mailto:abdullah.dev4220@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat)](https://axtheon.github.io/AbdullahKhan_Portfolio/)
+When I'm away from the keyboard:
+
+- 🎸 &nbsp; Playing acoustic guitar
+- 🎬 &nbsp; Film & analog photography
+- 🎮 &nbsp; Experimenting with game development using Unity & Unreal Engine
 
 ---
 
-> *"Build strong foundations. Algorithms first. Intelligence will follow."*
+## 🤝 Connect With Me
+
+<div align="left">
+  <a href="https://github.com/axtheon">
+    <img src="https://img.shields.io/badge/GitHub-%40axtheon-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=58A6FF&color=0d1117"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abdullah.dev4220@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdullah.dev4220%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=58A6FF&color=0d1117"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><i>"Build strong foundations. Algorithms first. Intelligence will follow."</i></sub>
+</div>

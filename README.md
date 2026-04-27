@@ -1,38 +1,32 @@
 # Hi! I'm Abdullah Khan 👋
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%2B+Software+Engineer+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+real-world+systems+with+AI+and+code;Turning+ideas+into+working+software" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Taking+the+Long+Game+to+Microsoft;Building+full-stack+intelligence%2C+one+layer+at+a+time" alt="Typing SVG" />
+
 </div>
 
 ---
 
 ## Who I Am
 
-I'm Abdullah Khan, a 17-year-old software engineer from Pakistan focused on building **AI-powered systems, automation tools, and real-world applications**.
+I'm a 17-year-old from Lahore, Pakistan, Currently doing ICS, working toward a career as a **Data Scientist and AI/ML Engineer at Microsoft**. Not the first step — the actual destination.
 
-I started with AI/ML and Data Structures & Algorithms, and expanded into building practical software systems — from data processing pipelines to full-stack web applications.
+I'm not in a hurry. I turned down a PKR 300,000/month AI/ML offer at 17 because I know the difference between early cash and long-term leverage. I chose ICS → BSCS, real mathematics, and the kind of depth that holds up at global scale.
 
-At 17, I turned down a **PKR 300,000/month AI/ML offer** — not out of arrogance, but because I know the difference between early cash and long-term depth. I chose to stay the course: ICS → BSCS, real mathematics, and the kind of foundations that hold up at global scale.
+My setup isn't impressive on paper — a Dell E6540, 4GB RAM. But constrained hardware teaches you things a beefy workstation never will: write efficient code, or write nothing at all.
 
-I care less about titles and more about one thing:
-
-> Can I build something that actually works and solves a problem?
+> *"Started on an Android TV. Survived Arch Linux. Still building."*
 
 ---
 
-## What I Do
+## What I'm Building Toward
 
-- AI-assisted software development
-- Machine learning fundamentals & applied systems
-- Full-stack web applications (for real-world use cases)
-- Automation tools and developer utilities
-- Problem solving with DSA
 
----
+Python + DSA  →  PostgreSQL + NumPy/Pandas  →  TensorFlow + APIs  →  InfoSec  →  Microsoft
 
-## Current Focus
 
-I am not focusing on one narrow field — I'm building the ability to design and ship complete systems end-to-end.
+Most people learn to *use* AI. I'm learning to own the full stack — the math underneath the model, the data layer beneath that, the API that exposes it, and the security hardening around it. Phase by phase. No shortcuts on foundations.
 
 ---
 
@@ -56,27 +50,7 @@ I am not focusing on one narrow field — I'm building the ability to design and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" title="Git" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="34" title="VS Code" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" title="HTML5" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" title="CSS3" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" title="React" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" title="Node.js" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="34" title="Express.js" />
 </div>
-
----
-
-## What I Build
-
-- AI-assisted software tools and automation systems
-- Full-stack web applications (React, Node.js, APIs)
-- Data-driven backend systems and pipelines
-- Rapid prototypes for startups and ideas
-- Experimental projects in AI and machine learning
 
 ---
 
@@ -88,17 +62,9 @@ I am not focusing on one narrow field — I'm building the ability to design and
 
 ---
 
-## Philosophy
+## Beyond the Terminal
 
-> "Build first. Optimize later. Understand deeply."
-
-I believe strong engineers are not defined by one domain, but by their ability to connect multiple layers of software into working systems.
-
----
-
-## Beyond Code
-
-Guitar • Chess • Film photography • Continuous learning
+Acoustic guitar · Film photography · Painting · Chess
 
 ---
 
@@ -117,5 +83,5 @@ Guitar • Chess • Film photography • Continuous learning
 <br/>
 
 <div align="center">
-  <sub><i>"Hardware is temporary. Logic is permanent. Systems are everything."</i></sub>
+  <sub><i>"Hardware is temporary. Logic is forever. Intelligence will follow."</i></sub>
 </div>

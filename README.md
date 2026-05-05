@@ -1,18 +1,15 @@
 # Hi! I'm Abdullah Khan 👋
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Taking+the+Long+Game+to+Microsoft;Building+full-stack+intelligence%2C+one+layer+at+a+time" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+full-stack+intelligence%2C+one+layer+at+a+time" alt="Typing SVG" />
 </div>
 
 ---
 
 ## Who I Am
 
-I'm a 17-year-old from Lahore, Pakistan, Currently doing ICS, working toward a career as a **Data Scientist and AI/ML Engineer at Microsoft**. Not the first step — the actual destination.
+I'm a 17-year-old from Lahore, Pakistan, currently doing ICS, working toward a career as a **Data Scientist and AI/ML Engineer**. I'm playing the long game — not chasing early wins, but building the kind of depth that holds up at global scale.
 
-I'm not in a hurry. I turned down a PKR 300,000/month AI/ML offer at 17 because I know the difference between early cash and long-term leverage. I chose ICS → BSCS, real mathematics, and the kind of depth that holds up at global scale.
+I turned down a PKR 300,000/month AI/ML offer at 17 because I know the difference between early cash and long-term leverage. I chose ICS → BSCS, real mathematics, and foundations that actually last.
 
 My setup isn't impressive on paper — a Dell E6540, 4GB RAM. But constrained hardware teaches you things a beefy workstation never will: write efficient code, or write nothing at all.
 
@@ -22,9 +19,7 @@ My setup isn't impressive on paper — a Dell E6540, 4GB RAM. But constrained ha
 
 ## What I'm Building Toward
 
-
-Python + DSA  →  PostgreSQL + NumPy/Pandas  →  TensorFlow + APIs  →  InfoSec  →  Microsoft
-
+Python + DSA  →  PostgreSQL + NumPy/Pandas  →  TensorFlow + APIs  →  InfoSec
 
 Most people learn to *use* AI. I'm learning to own the full stack — the math underneath the model, the data layer beneath that, the API that exposes it, and the security hardening around it. Phase by phase. No shortcuts on foundations.
 

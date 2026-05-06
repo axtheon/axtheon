@@ -1,27 +1,24 @@
-# Hi! I'm Abdullah Khan 👋
+# Abdullah Khan
+
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+the+making+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+full-stack+intelligence%2C+one+layer+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+full-stack+intelligence%2C+one+layer+at+a+time" alt="Typing SVG" />
 </div>
 
 ---
 
-## Who I Am
+## About Me
 
-I'm a 17-year-old from Lahore, Pakistan, currently doing ICS, working toward a career as a **Data Scientist and AI/ML Engineer**. I'm playing the long game — not chasing early wins, but building the kind of depth that holds up at global scale.
+I'm a 17-year-old from Lahore, Pakistan, currently completing ICS with a focus on building a long-term career in **Data Science and AI/ML Engineering**. My approach prioritizes mathematical foundations and systems-level understanding over surface-level tooling — the kind of depth that scales.
 
-I turned down a PKR 300,000/month AI/ML offer at 17 because I know the difference between early cash and long-term leverage. I chose ICS → BSCS, real mathematics, and foundations that actually last.
-
-My setup isn't impressive on paper — a Dell E6540, 4GB RAM. But constrained hardware teaches you things a beefy workstation never will: write efficient code, or write nothing at all.
-
-> *"Started on an Android TV. Survived Arch Linux. Still building."*
+Currently following a structured progression: ICS → BSCS, with deliberate emphasis on core computer science fundamentals before specialization.
 
 ---
 
-## What I'm Building Toward
+## Learning Roadmap
 
-Python + DSA  →  PostgreSQL + NumPy/Pandas  →  TensorFlow + APIs  →  InfoSec
+**Python + DSA → PostgreSQL + NumPy/Pandas → TensorFlow + APIs → InfoSec**
 
-Most people learn to *use* AI. I'm learning to own the full stack — the math underneath the model, the data layer beneath that, the API that exposes it, and the security hardening around it. Phase by phase. No shortcuts on foundations.
+My goal is to understand the full stack of modern AI systems — the mathematics beneath the model, the data infrastructure beneath that, the APIs that expose it, and the security layer around it. Each phase is completed before the next begins.
 
 ---
 
@@ -29,8 +26,6 @@ Most people learn to *use* AI. I'm learning to own the full stack — the math u
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" title="Python" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" title="C++" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" title="JavaScript" />
   <img width="8" />
@@ -57,7 +52,7 @@ Most people learn to *use* AI. I'm learning to own the full stack — the math u
 
 ---
 
-## Beyond the Terminal
+## Interests
 
 Acoustic guitar · Film photography · Painting · Chess
 
@@ -78,5 +73,5 @@ Acoustic guitar · Film photography · Painting · Chess
 <br/>
 
 <div align="center">
-  <sub><i>"Hardware is temporary. Logic is forever. Intelligence will follow."</i></sub>
+  <sub><i>"Foundations first. Everything else follows."</i></sub>
 </div>

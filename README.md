@@ -77,10 +77,6 @@ expressions on the face — and predicts why a moment will go viral.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=axtheon&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axtheon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58A6FF&title_color=58A6FF&text_color=8b949e" />
-</div>
-
 ---
 
 ## Interests

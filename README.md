@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a 17-year-old from Lahore, Pakistan, completing ICS while building
+I'm a CS student from Lahore, Pakistan, completing ICS while building
 **MoodCutter** — an AI-powered emotional intelligence engine for video
 that automatically detects and clips emotionally resonant moments using
 multimodal signal detection: speech sentiment, laughter, voice intensity,

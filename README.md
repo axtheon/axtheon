@@ -92,7 +92,7 @@ Acoustic guitar · Film photography · Painting · Chess
 ## Connect
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/abdullah-khan-axtheon">
+  <a href="https://www.linkedin.com/in/axtheon/">
     <img src="https://img.shields.io/badge/LinkedIn-%40abdullah--khan--axtheon-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=58A6FF&color=0d1117"/>
   </a>
   &nbsp;

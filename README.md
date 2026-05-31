@@ -1,4 +1,4 @@
-# Abdullah Khan
+# Muhammad Abdullah Khan
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Startup+Founder+%7C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+MoodCutter+%E2%80%94+AI+that+clips+what+you+felt;Foundations+first.+Everything+else+follows." alt="Typing SVG" />

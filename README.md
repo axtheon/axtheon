@@ -115,6 +115,15 @@ The POC is complete and archived. The Community pipeline is actively being built
 
 ---
 
+## Hobbies
+
+- Electronics
+- Chess
+- Film Photography
+- Guitar
+
+---
+
 ## Connect
 
 <div align="center">

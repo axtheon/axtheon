@@ -117,9 +117,9 @@ The POC is complete and archived. The Community pipeline is actively being built
 
 ## Hobbies
 
-- Electronics
+- Mechatronics & Robotics
+- Film & Digital Photography
 - Chess
-- Film Photography
 - Guitar
 
 ---

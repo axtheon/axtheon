@@ -102,16 +102,8 @@ The POC is complete and archived. The Community pipeline is actively being built
 
 - Solo founder of **MoodCutter**, indexed on Google, open source, actively developed
 - Declined a Senior AI/ML Engineering offer before completing matric exams, recognized publicly by the company's Head of Operations on LinkedIn
-- LinkedIn: **2.1k+ followers** | Indexed by Google under "axtheon"
-- Self-taught: C# → Game Dev → Web Dev → AI/ML & DSA with Python
-
----
-
-## Goals
-
-- Ship MoodCutter Community and grow an open-source contributor base
-- Launch MoodCutter Pro with the full six-signal fusion pipeline
-- Build generational wealth, with the philosophy, systems, and values to preserve it
+- Indexed by Google under "axtheon"
+- Self-taught: AI/ML engineer
 
 ---
 

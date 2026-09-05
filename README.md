@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axtheon)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axtheon)
-[![MoodCutter](https://img.shields.io/badge/MoodCutter-FF4B4B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white)](https://github.com/axtheon/moodcutter-community)
 ![Profile Views](https://komarev.com/ghpvc/?username=axtheon&style=for-the-badge&color=red)
 
 </div>
@@ -19,11 +18,11 @@
 
 ## About Me
 
-I'm **Muhammad Abdullah Khan**, a self-taught AI/ML engineer, DSA specialist, and solo founder of **MoodCutter**, an AI-powered emotional intelligence engine for video content. Based in Lahore, Pakistan.
+I'm **Muhammad Abdullah Khan**, a self-taught AI/ML engineer, DSA specialist, and founder of **MoodCutter**, an AI powered emotional intelligence engine for video content. Based in Lahore, Pakistan.
 
 I started programming by teaching myself C# on a keyboard wired to a television, with a handwritten diary as a second monitor. Since then, I've moved through game development, web development, and eventually found my ground in AI/ML and DSA.
 
-Constraints don't limit builders; they define them. Everything I've built has come from resourcefulness, deep focus, and an obsession with understanding how things actually work under the hood.
+Constraints don't limit builders, they define them. Everything I've built has come from resourcefulness, deep focus, and an obsession with understanding how things actually work under the hood.
 
 > *"Hard times make strong men, strong men make easy times, easy times make weak men, and weak men make hard times."*
 
@@ -31,16 +30,11 @@ Constraints don't limit builders; they define them. Everything I've built has co
 
 ## MoodCutter
 
-**MoodCutter** is an AI-powered emotional intelligence engine that analyzes video content across multiple signals to predict emotional impact and virality.
+**MoodCutter** is an AI powered emotional intelligence engine that analyzes video content to identify the moments that make viewers feel something, combining speech sentiment and facial emotion analysis into a single Virality Score per clip.
 
-| Version | Status | Signals |
-|---------|--------|---------|
-| **Community** *(Open Source)* | Active Development | Speech Sentiment · Laughter Detection · Voice Intensity |
-| **Pro** *(Closed Source)* | Planned | + Facial Emotion · Crowd Reaction · Fusion Layer → Virality Score |
+Built for content creators and teams who want automated, emotion driven editing without writing any code.
 
-The POC is complete and archived. The Community pipeline is actively being built and open to contributors.
-
-[![MoodCutter Community](https://img.shields.io/badge/View%20MoodCutter%20Community-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/axtheon/moodcutter-community)
+The proof of concept is complete and archived. The current MVP is in active development.
 
 ---
 
@@ -55,6 +49,7 @@ The POC is complete and archived. The Community pipeline is actively being built
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![WhisperX](https://img.shields.io/badge/WhisperX-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **DSA & Problem Solving**
 
@@ -91,19 +86,19 @@ The POC is complete and archived. The Community pipeline is actively being built
 
 ## Currently Working On
 
-- Building the MoodCutter Community pipeline; `speech_sentiment.py`, `laughter_detection.py`, `voice_intensity.py`
+- Building the MoodCutter MVP: speech sentiment analysis and facial emotion recognition, combined into a first version Virality Score
 - Strengthening math foundations for ML and SAT prep
 - Grinding DSA systematically toward the NeetCode 150
-- Daily-driving Arch Linux in WSL with a Neovim/LazyVim setup
+- Daily driving Arch Linux in WSL with a Neovim/LazyVim setup
 
 ---
 
 ## Highlights
 
-- Solo founder of **MoodCutter**, indexed on Google, open source, actively developed
+- Founder of **MoodCutter**, an AI powered emotional intelligence engine for video, indexed on Google
 - Declined a Senior AI/ML Engineering offer before completing matric exams, recognized publicly by the company's Head of Operations on LinkedIn
 - Indexed by Google under "axtheon"
-- Self-taught: AI/ML engineer
+- Self-taught AI/ML engineer
 
 ---
 

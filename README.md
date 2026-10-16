@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm **Muhammad Abdullah Khan**, a self-taught AI/ML engineer, DSA specialist, and founder of **MoodCutter**, an AI powered emotional intelligence engine for video content. Based in Lahore, Pakistan.
+I'm **Muhammad Abdullah Khan**, a self-taught AI/ML engineer, DSA specialist, and founder and CEO of **MoodCutter**, an AI powered emotional intelligence engine for video content. Based in Lahore, Pakistan.
 
 I started programming by teaching myself C# on a keyboard wired to a television, with a handwritten diary as a second monitor. Since then, I've moved through game development, web development, and eventually found my ground in AI/ML and DSA.
 
@@ -30,11 +30,13 @@ Constraints don't limit builders, they define them. Everything I've built has co
 
 ## MoodCutter
 
-**MoodCutter** is an AI powered emotional intelligence engine that analyzes video content to identify the moments that make viewers feel something, combining speech sentiment and facial emotion analysis into a single Virality Score per clip.
+**MoodCutter** is an AI powered emotional intelligence engine for video. It finds the moments that make viewers feel something and cuts them into short clips without breaking context, so creators don't have to re-watch hours of footage to find what's worth keeping.
 
-Built for content creators and teams who want automated, emotion driven editing without writing any code.
+It uses emotion signals from speech and video to rank clips, and it's built for content creators and teams who want automated, emotion driven editing without writing any code.
 
-The proof of concept is complete and archived. The current MVP is in active development.
+MoodCutter is a closed-source, paid product, so there is no public repository. The MVP is in active development with a small team, and I've been building it since January 2026.
+
+If you create content or edit video and would like to test it early, message me on [LinkedIn](https://www.linkedin.com/in/axtheon).
 
 ---
 
@@ -86,8 +88,10 @@ The proof of concept is complete and archived. The current MVP is in active deve
 
 ## Currently Working On
 
-- Building the MoodCutter MVP: speech sentiment analysis and facial emotion recognition, combined into a first version Virality Score
-- Strengthening math foundations for ML and SAT prep
+- Building the MoodCutter MVP: emotion-aware clip detection from speech and video
+- Running creator research and building an early-access group for testing
+- Leading a small team across product, engineering, and marketing
+- Strengthening math foundations for ML
 - Grinding DSA systematically toward the NeetCode 150
 - Daily driving Arch Linux in WSL with a Neovim/LazyVim setup
 
@@ -95,9 +99,9 @@ The proof of concept is complete and archived. The current MVP is in active deve
 
 ## Highlights
 
-- Founder of **MoodCutter**, an AI powered emotional intelligence engine for video, indexed on Google
+- Founder and CEO of **MoodCutter**, an AI powered emotional intelligence engine for video, indexed on Google under "axtheon"
+- Surveyed 25 creators and editors to shape the product, and used the results to prioritize context-safe clipping
 - Declined a Senior AI/ML Engineering offer before completing matric exams, recognized publicly by the company's Head of Operations on LinkedIn
-- Indexed by Google under "axtheon"
 - Self-taught AI/ML engineer
 
 ---
@@ -119,6 +123,7 @@ The proof of concept is complete and archived. The current MVP is in active deve
 |----------|------|
 | LinkedIn | [linkedin.com/in/axtheon](https://www.linkedin.com/in/axtheon) |
 | GitHub | [github.com/axtheon](https://github.com/axtheon) |
+| MoodCutter on Instagram | [@moodcutter.hq](https://www.instagram.com/moodcutter.hq) |
 
 </div>
 

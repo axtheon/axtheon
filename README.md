@@ -123,7 +123,7 @@ If you create content or edit video and would like to test it early, message me 
 |----------|------|
 | LinkedIn | [linkedin.com/in/axtheon](https://www.linkedin.com/in/axtheon) |
 | GitHub | [github.com/axtheon](https://github.com/axtheon) |
-| MoodCutter | [MoodCutter](https://www.moodcutter.com/) |
+| MoodCutter | [MoodCutter](https://moodcutter.com) |
 
 </div>
 

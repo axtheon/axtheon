@@ -100,8 +100,8 @@ If you create content or edit video and would like to test it early, message me 
 ## Highlights
 
 - Founder and CEO of **MoodCutter**, an AI powered emotional intelligence engine for video, indexed on Google under "axtheon"
-- Surveyed 25 creators and editors to shape the product, and used the results to prioritize context-safe clipping
-- Declined a Senior AI/ML Engineering offer before completing matric exams, recognized publicly by the company's Head of Operations on LinkedIn
+- Surveyed 50+ creators and editors to shape the product, and used the results to prioritize context-safe clipping
+- Declined a 300k/month Senior AI/ML Engineering offer at 14 before completing matric exams, appreciated publicly by the company's Head of Operations on LinkedIn
 - Self-taught AI/ML engineer
 
 ---
